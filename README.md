@@ -48,5 +48,5 @@ The model is trained on the **CIFAKE** dataset from Kaggle:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fake-real-image-classification.git
+git clone https://github.com/adam-ben-rhaiem/FakeImageDetector.git
 cd fake-real-image-classification
