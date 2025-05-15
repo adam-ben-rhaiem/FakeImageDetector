@@ -1,7 +1,5 @@
 # 🧠 Fake vs Real Image Classification using CNN
 
-![Project Banner](https://your-image-link.com/banner.jpg) <!-- Optional: Replace with a relevant banner image URL -->
-
 ## 📌 Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to classify images as either **real or AI-generated**.  
@@ -24,7 +22,7 @@ With the rapid advancement of AI image generation technologies, distinguishing b
 - Python 3.x  
 - TensorFlow / Keras  
 - Streamlit  
-- OpenCV / Pillow  
+- OpenCV 
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
