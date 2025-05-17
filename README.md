@@ -1,4 +1,5 @@
-# 🧠 Fake vs Real Image Classification using CNN
+# 🧠 FakeImageDetector
+
 
 ## 📌 Overview
 
@@ -49,4 +50,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/adam-ben-rhaiem/FakeImageDetector.git
-cd fake-real-image-classification
+cd FakeImageDetector
