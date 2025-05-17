@@ -14,7 +14,7 @@ With the rapid advancement of AI image generation technologies, distinguishing b
 
 - 🧠 CNN-based classification of images as real or AI-generated  
 - 💻 Streamlit web interface for easy user interaction  
-- 🧾 Trained on the [CIFAKE dataset](https://www.kaggle.com/datasets/skyhigh129/fake-vs-real-cifa10-cifake) from Kaggle  
+- 🧾 Trained on the [CIFAKE dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) from Kaggle  
 - 🔼 Simple, intuitive UI for image upload and prediction  
 - 📊 Displays prediction confidence scores  
 
