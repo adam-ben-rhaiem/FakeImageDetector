@@ -35,7 +35,7 @@ The model is trained on the **CIFAKE** dataset from Kaggle:
 - 60,000 real images (from CIFAR-10)  
 - 60,000 AI-generated images (via Stable Diffusion v1.4)  
 - Balanced dataset with equal real and fake samples  
-- Dataset URL: [CIFAKE - Real and AI-Generated Synthetic Images]([https://www.kaggle.com/datasets/skyhigh129/fake-vs-real-cifa10-cifake](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images))  
+- Dataset URL:  [CIFAKE dataset](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) 
 
 
 ## 🖼️ Image Classification  
