@@ -28,7 +28,7 @@ With the rapid advancement of AI image generation technologies, distinguishing b
 - Pandas  
 - Matplotlib / Seaborn  
 
-## 📂 Dataset
+## 📊 Dataset
 
 The model is trained on the **CIFAKE** dataset from Kaggle:
 
