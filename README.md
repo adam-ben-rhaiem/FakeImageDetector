@@ -41,17 +41,14 @@ The model is trained on the **CIFAKE** dataset from Kaggle:
 ## 🖼️ Image Classification  
 
 **Image classification** is a computer vision task where an algorithm predicts a class label for a given input image. The model learns to extract relevant features from the image and processes them to produce an output—in this case, determining whether the image is **real or synthetic (AI-generated)**.  
-
 ### 🔍 How It Works  
 - **Feature Extraction**: The model identifies patterns (edges, textures, shapes) from pixel data.  
 - **Classification**: The extracted features are analyzed to assign a label (e.g., "real" or "synthetic").  
 - **Output**: A confidence score or binary prediction is returned.  
-
 ### 🚀 Why It Matters  
 - Detects AI-generated images (e.g., Deepfakes, GAN outputs).  
 - Enhances authenticity verification in digital media.  
 - Built using **Neural Networks** for high accuracy.
-- 
 ## 🧮 Algorithm Used
 ### Neural Networks
 - also known as Artificial Neural Networks (ANNs), are a class of algorithms inspired by the structure and functioning of the human brain. It consists of interconnected nodes organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer. Each connection between nodes has an associated weight, and nodes within a layer may have activation functions.
