@@ -37,6 +37,20 @@ The model is trained on the **CIFAKE** dataset from Kaggle:
 - Balanced dataset with equal real and fake samples  
 - Dataset URL: [CIFAKE - Real and AI-Generated Synthetic Images](https://www.kaggle.com/datasets/skyhigh129/fake-vs-real-cifa10-cifake)  
 
+
+## 🧮 Algorithm Used
+### Neural Networks
+also known as Artificial Neural Networks (ANNs), are a class of algorithms inspired by the structure and functioning of the human brain. It consists of interconnected nodes organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer. Each connection between nodes has an associated weight, and nodes within a layer may have activation functions.
+Why Neural Networks?
+
+In image classification, neural networks excel at capturing subtle patterns and variations that conventional algorithms may find challenging. Their hierarchical structure allows them to proficiently learn and represent features across diverse levels of abstraction, proving highly effective for the specific requirements of image classification tasks.
+
+## 📐 Model Architecture
+### Convolutional Neural Network (CNN)
+a type of deep learning model architecture designed specifically for processing structured grid data, such as images. CNNs have proven to be highly effective in computer vision tasks, including image classification, object detection, segmentation, and more. They are characterized by their ability to automatically and adaptively learn spatial hierarchies of features directly from the data.
+Why CNN?
+
+CNNs have proven to be highly effective in computer vision tasks due to their ability to automatically and adaptively learn spatial hierarchies of features directly from diverse data sources such as images and videos.
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
